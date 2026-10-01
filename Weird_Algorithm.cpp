@@ -1,3 +1,4 @@
+//primer ejercicio 
 #include <iostream>
 using namespace std; 
 int main (){
